@@ -1,4 +1,4 @@
-# Statistical-Arbitrage
+# Intraday-Statistical-Arbitrage-Backtesting-Pipeline-
 In this project we provide a backtesting pipeline for intraday statistical arbitrage. Both traditional spread models (i.e. pairs trading with cointegration tests, time series analysis) and continuous time trading models (i.e. Ornstein-Uhlenbeck process) are used to model the spread portfolios.
 
 ## Scripts
